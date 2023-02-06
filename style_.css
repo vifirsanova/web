@@ -86,4 +86,7 @@ a {
 		 transform: translate3d(calc(var(--z) * 100px), calc(var(--z) * 100px), calc(var(--z) * 100px));
 	}
 }
- 
+
+footer {
+   padding: 2rem;
+}
